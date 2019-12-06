@@ -22,4 +22,11 @@ In the remainder of the article it is assumed that the graph is represented usin
 algorithm to be a distancematrix D. In D, every entry  d- i,j is the weight of the shortest path in G from nodei to node j.
 
 The Floyd algorithm presented later can handle negative edge weights, whereas the Dijkstra algorithm requires all edges to have a positive weight
+
+
+
 ![Graph](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Apsp_dijkstra_graph.png/220px-Apsp_dijkstra_graph.png)
+
+
+
+![Graph](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Apsp_dijkstra_distancelist.png/220px-Apsp_dijkstra_distancelist.png)
