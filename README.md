@@ -9,7 +9,7 @@
 * عبدالرحمن عماد فاروق 20160218
 
 
-## Problem Definition : 
+## Problem Definition 
 
 
 Let G =(V,E,w) be a directed Graph with the set of nodes V{\displaystyle V}VVV and the set of edges E Consisting of V x V.
@@ -20,7 +20,7 @@ the graph is represented using an adjacency matrix We expect the output of the 
 in D, every entry d – i,j is the weight of the shortest path in G from node i to node j.
 whereas the Dijkstra algorithm requires all edges to have a positive weight. 
 
-## Dijkstra algorithm
+## Dijkstra algorithm 
 The Dijkstra algorithm originally was proposed as a solver for the single-source-shortest-paths problem. However, the algorithm can easily be used for solving the All-Pair-Shortest-Paths problem by executing the Single-Source variant with each node in the role of the root node.
 
 
